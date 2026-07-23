@@ -1,4 +1,4 @@
-package EcoPointsRecyclingTrackerApp.utils;
+package com.utils;
 
 import java.io.Serializable;
 import java.time.LocalDate;
